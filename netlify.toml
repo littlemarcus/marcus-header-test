@@ -3,4 +3,4 @@
   command = "npm run build"
 
   [[plugins]]
-    package = "netlify-plugin-rewrite"
+    package = "/plugins/netlify-plugin-rewrite"
